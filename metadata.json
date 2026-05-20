@@ -1,0 +1,6 @@
+{
+  "name": "BlockTrace",
+  "description": "A complete professional blockchain-based supply chain and transaction ledger with interactive visual blockchain debugger, admin console, and full academic project documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
